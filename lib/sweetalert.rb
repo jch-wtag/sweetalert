@@ -1,5 +1,7 @@
 require "sweetalert/version"
 
 module Sweetalert
-  # Your code goes here...
+  class Engine < ::Rails::Engine 
+
+  end
 end
